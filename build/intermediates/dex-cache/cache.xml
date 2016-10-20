@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_e846a87398440b23963adce2ab6c1cb7c568eef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1778df82677efc11032a419ed86d6e59ac108757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scott\.gradle\caches\modules-2\files-2.1\com.google.auto.value\auto-value\1.3\4961194f62915eb45e21940537d60ac53912c57d\auto-value-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4961194f62915eb45e21940537d60ac53912c57d">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-value-1.3_eaca8a820eba27aef7fcb94d64828003b65839dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_d568ed9ac3881c499256a0ac0d98cf4ef8a5d9fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_3cbc84b499ddec8c096808e6ea1bf27a37823354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_5583dc9830a0da10f6a5691813d940cc871d0fde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_e03bcc953721b4d8721bb677c14e87626019eb7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f25e1834e2916f84d76c4a07c2162fcf9b3aa018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_49de0093f848efa545d248d9535aeef9f4a8f4b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d9e4cbcddd4370de2cd3727c99361c2ed9b2e89c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cd203f130767b6b6fd6772bfc9b1661389b253dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_d1a6499b64cd198b6399b73b85ef7b28a51a5545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_b0b90391ffe0bac66f595c55d7da58ef642673a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9139983cb04276b91217902b8bb4a64eb5c782d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_61785321b1dc13babb572ec41a70383d3b1ce4a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fc3fc101bba7b22f7ac59dd7f8d7c15028dd3bc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8df06a2fba82ae55a65aabe44411edc7d570b6b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cf29c130e133a16c744976228271a1432205d17f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scott\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_dc4f6ed1bbc3683bf37de418ebab8a74ab28e745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_cb781fad24a02e9614b1ac7c5313d1133b357f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_01a5d399bc7a757382afd90562f6aa4d84b4c660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4544c074c0fe4a3474beea366b1fe32792f94866">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88ab204b4bf20c19e69f70c04d195e1699b2a1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f1dbb81bf8024c20c7d568838e85a9f1e1cb37b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_42cf2b68ed129eab70f37b6deaf1162b5ed86723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scott\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ab57797a4fbdb9124856e37c625e0439e46754e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae7ec666bb135be1f5379752a7dbf4ea935884b4">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e7777a25326e6cc29c3102d9c9e5163ee8ea60b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a4205e752afe58f075f592f6357b6b8cbc855a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_337afa899e2899e555202a6924863d64dd910106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\scottsGitRepo\SpikeForAwarnessApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7136aeb89942e00a733045ce7461086b3768df98\classes.dex" />
+    </item>
+
+</items>

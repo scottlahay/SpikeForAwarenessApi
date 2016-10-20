@@ -1,0 +1,39 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="scott.spikeforawarnessapi.MapsActivity">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnSendLogs_m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send Logs"
+            />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnCurrentFenceState_m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Log Fence State"
+            />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnClearLogs_m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear Logs"
+            />
+    </LinearLayout>
+
+</FrameLayout>
